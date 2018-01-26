@@ -1,6 +1,6 @@
 {
-    "name": "GIT_USER_ID/GIT_REPO_ID",
-    "description": "",
+    "name": "arsengoian/openalpr",
+    "description": "Usable fork of PHP OpenALPR",
     "keywords": [
         "swagger",
         "php",
